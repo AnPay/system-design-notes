@@ -1,0 +1,17 @@
+In the SRP, you make a judgement about decomposition and where to draw encapsulation boundaries in your code.
+
+In the OCP, you make a judgement about what in your module you will make abstract.
+ Decorator pattern helps us to follow Open Close principle. Also, the Factory Method, Strategy pattern or the Observer pattern
+ 
+ LSP:
+ Object of parent class should be completely replaceable by object of child class.
+ A common code smell that frequently indicates an LSP violation is the presence of type checking code within a code block that is polymorphic.
+ this principle is striving for i.e. loose coupling & ensuring correct inheritance.
+ one object can be designed to inherit from another if it always has an “IS-SUBSTITUTABLE-FOR” relationship with the inherited object
+ 
+ ISP:
+ TBR
+ 
+ 
+ DIP:
+ TBR
